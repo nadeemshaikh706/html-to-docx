@@ -48,6 +48,10 @@ const defaultDocumentOptions = {
       cantSplit: false,
     },
   },
+  pageSize: {
+    width: landscapeHeight,
+    height: landscapeWidth,
+  },
   pageNumber: false,
   skipFirstHeaderFooter: false,
   lineNumber: false,
